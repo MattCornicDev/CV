@@ -4,6 +4,13 @@ const Experience = () => {
     return (
         <div className="experience">
             <h3>Experience</h3>
+            <div className="exp-7">
+                <h4>Formateur JavaScript nodeJS ReactJS</h4>
+                <h5>2022 - septembre</h5>
+                <p>
+                    Formateur pour le GRETA Grand Hainaut, pour des étudiants préparant un bac+ 2 en informatique.
+                </p>
+            </div>
             <div className="exp-1">
                 <h4>Suez Smart Solution</h4>
                 <h5>2021 - Juillet à Novembre</h5>
