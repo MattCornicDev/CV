@@ -24,9 +24,9 @@ const Navigation = () => {
                             <span>Accueil</span>
                         </NavLink>
                     </li>
-                    <div className="navigation">
+                    <div className="navigation" >
                         <div className="mb-2">
-                            {['end'].map((direction) => (
+                            {['down'].map((direction) => (
                                 <DropdownButton
                                     as={ButtonGroup}
                                     key={direction}
@@ -64,7 +64,7 @@ const Navigation = () => {
                             ))}
                         </div>
                         <div className="mb-2">
-                            {['end'].map((direction) => (
+                            {['down'].map((direction) => (
                                 <DropdownButton
                                     as={ButtonGroup}
                                     key={direction}
