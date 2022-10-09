@@ -37,37 +37,37 @@ const Navigation = () => {
                     <li>
                         <NavLink exact="true" to="/competences" activeClassName="navActive">
                             <i className="fas fa-mountain"></i>
-                            <span>Compétences</span>
+                            <span>Compétences Rarib</span>
                         </NavLink>
                     </li>
                     <li>
                         <NavLink exact="true" to="/competencesEK" activeClassName="navActive">
                             <i className="fas fa-mountain"></i>
-                            <span>Compétences Elodie KSIAZEK</span>
+                            <span>Compétences Elodie</span>
                         </NavLink>
                     </li>
                     <li>
                         <NavLink exact="true" to="/portfolio" activeClassName="navActive">
                             <i className="fas fa-images"></i>
-                            <span>Portfolio</span>
+                            <span>Portfolio Rarib</span>
                         </NavLink>
                     </li>
                     <li>
                         <NavLink exact="true" to="/portfolioEK" activeClassName="navActive">
                             <i className="fas fa-images"></i>
-                            <span>Portfolio Elodie KSIAZEK</span>
+                            <span>Portfolio Elodie</span>
                         </NavLink>
                     </li>
                     <li>
                         <NavLink exact="true" to="/contact" activeClassName="navActive">
                             <i className="fas fa-address-book"></i>
-                            <span>Contact</span>
+                            <span>Contact Rarib</span>
                         </NavLink>
                     </li>
                     <li>
                         <NavLink exact="true" to="/contactEK" activeClassName="navActive">
                             <i className="fas fa-address-book"></i>
-                            <span>Contact <br/> Elodie KSIAZEK</span>
+                            <span>Contact Elodie</span>
                         </NavLink>
                     </li>
                 </ul>
